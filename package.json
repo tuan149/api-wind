@@ -1,0 +1,40 @@
+{
+  "name": "@tuan149/api-wind",
+  "version": "1.0.2",
+  "description": "connect to api tiwtter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client-fb",
+    "api-connect-x",
+    "api-connect-tiwtter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuan149/api-wind.git"
+  },
+  "author": "tuan149",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuan149/api-wind/issues"
+  },
+  "homepage": "https://github.com/tuan149/api-wind#readme",
+  "dependencies": {
+    "@kazaferixm/api-light": "^1.0.0",
+    "@kazaferixm/api-rainny": "^1.0.9",
+    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/chatfanpage": "^1.0.1",
+    "@libphamton/client-fb": "^1.0.9",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.4",
+    "@oraliepham/api-facebooknew": "^1.0.5",
+    "@tuan149/api-sunny": "^1.0.5",
+    "@tuan149/api-snowy": "^1.0.2",
+    "@tuan149/api-rain": "^1.0.2",
+    "api-chat-fanpage-facebook": "^1.2.0",
+    "api-chatfb": "^1.0.7",
+    "api-chatfb-test": "^1.0.6",
+    "api-facebooknew": "^1.0.4"
+  }
+}
